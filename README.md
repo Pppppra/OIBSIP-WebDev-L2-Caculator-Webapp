@@ -1,31 +1,30 @@
+# Calculator Web Application
 
-# Project Title
+Developed a responsive and user-friendly calculator web application using **HTML5, CSS3, and Vanilla JavaScript**. The application performs basic arithmetic operations such as addition, subtraction, multiplication, and division through an interactive button-based interface.
 
-A brief description of what this project does and who it's for
+The calculator includes features such as **decimal number support, clear (C), delete (DEL), equals (=), operator chaining, and division-by-zero error handling**. CSS Grid is used to create an organized and responsive button layout, while JavaScript event listeners handle all user interactions without using inline `onclick` attributes or `eval()`.
 
-### Project Description
+# Technologies Used
 
-A responsive Tribute Page dedicated to Dr. A. P. J. Abdul Kalam, showcasing his biography, achievements, inspirational quotes, and contributions using HTML, CSS, and JavaScript.
+* HTML5
+* CSS3
+* JavaScript 
 
-### Features
+# Key Features
 
-* Responsive design
-* Biography section
-* Achievements timeline
-* Inspirational quote
-* Interactive buttons
-* Hover effects
-* Mobile-friendly layout
-
-### Project Structure
-
-```text
-Tribute-Page/
+* Addition, subtraction, multiplication, and division
+* Decimal number calculations
+* Clear and delete functionality
+* Division-by-zero error handling
+* Operator chaining
+* CSS Grid button layout
+  
+# Calculator
+│
 ├── index.html
 ├── style.css
-└── script.js
-```
+└── main.js
+* JavaScript `addEventListener()`
+* Responsive and user-friendly interface
 
-* **index.html** – Page structure and content
-* **style.css** – Styling and responsive design
-* **script.js** – Interactive functionality
+
